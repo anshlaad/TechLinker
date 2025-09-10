@@ -4,7 +4,7 @@
 
 TechLinker is a **developer networking platform** where tech enthusiasts can **connect, chat, and collaborate** based on mutual interest. Inspired by Tinder, it lets users **swipe left to ignore and right to connect**, with real-time chat features powered by **Socket.io**.
  
-📌 **GitHub Repository**: [TechLinker Repo](https://github.com/anshlaad/devTinder)
+📌 **GitHub Repository**: [TechLinker Repo](https://github.com/anshlaad/TechLinker)
 
 ## ✨ Features
 
