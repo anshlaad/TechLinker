@@ -1,10 +1,10 @@
-# 🚀 devTinder – Connect with Developers Like Never Before!
+# 🚀 TechLinker – Connect with Developers Like Never Before!
 
 ## 🔥 Overview
 
-devTinder is a **developer networking platform** where tech enthusiasts can **connect, chat, and collaborate** based on mutual interest. Inspired by Tinder, it lets users **swipe left to ignore and right to connect**, with real-time chat features powered by **Socket.io**.
+TechLinker is a **developer networking platform** where tech enthusiasts can **connect, chat, and collaborate** based on mutual interest. Inspired by Tinder, it lets users **swipe left to ignore and right to connect**, with real-time chat features powered by **Socket.io**.
  
-📌 **GitHub Repository**: [devTinder Repo](https://github.com/ankitnagar34/devTinder)
+📌 **GitHub Repository**: [TechLinker Repo](https://github.com/anshlaad/devTinder)
 
 ## ✨ Features
 
@@ -23,7 +23,7 @@ devTinder is a **developer networking platform** where tech enthusiasts can **co
 ## 📂 Project Structure
 
 ```bash
-devTinder/
+TechLinker/
 │── frontend/    # Frontend (React, TypeScript, Zustand, Tailwind CSS, DaisyUi)
 │── backend/     # Backend (Node.js, Express, MongoDB, TypeScript, Socket.io)
 │── README.md    # Documentation
@@ -34,8 +34,8 @@ devTinder/
 ### 1️⃣ Clone the repository
 
 ```bash
-git clone https://github.com/ankitnagar34/devTinder.git
-cd devTinder
+git clone https://github.com/anshlaad/TechLinker.git
+cd TechLinker
 ```
 
 ### 2️⃣ Install dependencies
@@ -80,5 +80,5 @@ Contributions are welcome! Feel free to fork the repository and submit pull requ
 
 ## 📫 Contact
 
-👨‍💻 **Author:** [Ankit Nagar](https://github.com/ankitnagar34)  
-📧 **Email:** ankitnagar9211@gmail.com
+👨‍💻 **Author:** Ansh Laad (https://github.com/anshlaad)  
+📧 **Email:** laadansh765@gmail.com
